@@ -1,0 +1,13 @@
+h1{color: #050A30; font-family: cursive;} /* main heading */
+ .text-primary-mine{color: #9F2B00;} /* the dates*/
+
+a{color: #9F2B00;}/* email address */
+h2{color: #003B73;}/* the sub heading edu*/
+h3{color: #0074B7;}/*sub sub headings*/
+.text-primary-name{color: #0000FF;}/* big klintworth*/
+.Psize{display: block;/* */
+    margin-left: auto;/* */
+    margin-right: auto;
+    width: 50%;}/* pictures */
+body{background-color: #D3D3CB;}/* */
+
